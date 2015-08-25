@@ -31,5 +31,10 @@
         {
             get { return "WellcomeUserName"; }
         }
+
+        public static string CommentTextAreaId
+        {
+            get { return "updateSLACommentArea"; }
+        }
     }
 }
