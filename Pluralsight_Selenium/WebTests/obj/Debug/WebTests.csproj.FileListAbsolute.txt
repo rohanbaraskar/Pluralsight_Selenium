@@ -1,0 +1,9 @@
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\obj\Debug\WebTests.csprojResolveAssemblyReference.cache
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebTests.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebTests.pdb
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebAutomation.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebDriver.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebAutomation.pdb
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\bin\Debug\WebDriver.xml
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\obj\Debug\WebTests.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebTests\obj\Debug\WebTests.pdb

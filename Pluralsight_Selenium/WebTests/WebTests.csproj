@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>183f61fe-1ffd-4234-89c9-5b5d7a357234</ProjectGuid>
+    <ProjectGuid>{6F13D89D-F73E-44BE-9BF4-3272445247AF}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WebTests</RootNamespace>
@@ -50,8 +50,15 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="AccountData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LoginTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WebAutomation\WebAutomation.csproj">
+      <Project>{fd322b8d-5b2a-4bbd-914d-b24761901504}</Project>
+      <Name>WebAutomation</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

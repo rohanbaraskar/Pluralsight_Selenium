@@ -1,0 +1,9 @@
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebAutomation.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebAutomation.pdb
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebDriver.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebDriver.xml
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\obj\Debug\WebAutomation.csprojResolveAssemblyReference.cache
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\obj\Debug\WebAutomation.dll
+C:\Users\v-robsu\Documents\GitHub\Pluralsight_Selenium\Pluralsight_Selenium\WebAutomation\obj\Debug\WebAutomation.pdb
